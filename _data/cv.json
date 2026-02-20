@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "Julian Döhl",
+    "email": "juliandoehl at googlemail.com",
+    "phone": "",
+    "website": "https://julian-doehl.de/",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "Germany",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Julian Döhl",
+        "url": "https://www.linkedin.com/in/julian-d%C3%B6hl-982435132/"
+      },
+      {
+        "network": "GitHub",
+        "username": "JuliBD",
+        "url": "https://github.com/JuliBD"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "Uni Tübingen",
+      "area": "MSc. Machine Learning",
+      "studyType": "",
+      "startDate": "2023",
+      "endDate": "2026",
+      "gpa": 3.2,
+      "courses": []
+    },
+    {
+      "institution": "Uni Tübingen",
+      "area": "BSc. Computer Science",
+      "studyType": "",
+      "startDate": "2019",
+      "endDate": "2023",
+      "gpa": 3.52,
+      "courses": []
+    },
+    {
+      "institution": "GDS 2",
+      "area": "Highschool, Environmental Technology",
+      "studyType": "",
+      "startDate": "2016",
+      "endDate": "2019",
+      "gpa": 3.76,
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
+}
